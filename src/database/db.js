@@ -25,4 +25,4 @@ process.on("SIGINT", async () => {
   }
 });
 
-export { connectDatabase, createConnection };
+export { createConnection };
